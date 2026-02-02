@@ -5,7 +5,7 @@ package org.example;
 
 public class App {
     public String getGreeting() {
-        return "Collaborative Git workflow - first attempt.";
+        return "Collaborative Git workflow first another attempt.";
     }
 
     public static void main(String[] args) {
